@@ -3,7 +3,7 @@
 # Description
 That's a pet project
 
-Template about Ecology UI
+Restaurant UI
 
 ## What i used :
 
